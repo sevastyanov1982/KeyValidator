@@ -9,8 +9,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-- [issue#1](https://github.com/sevastyanov1982/KeyValidator/issues/1#issue-820063367)
-- [issue#2](https://github.com/sevastyanov1982/KeyValidator/issues/2#issue-820110210)
+- [Не принимает валидные ключи при вводе в приложении KeyValidator](https://github.com/sevastyanov1982/KeyValidator/issues/1#issue-820063367)
+- [Принимает невалидные ключи при вводе в приложении KeyValidator](https://github.com/sevastyanov1982/KeyValidator/issues/2#issue-820110210)
 
 ## Описание процесса тестирования
 
