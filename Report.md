@@ -33,7 +33,6 @@
 - Result for 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1: FAIL
 
 Тестирование производилось в следующем окружении:
-
 - MacOS Big Sur Версия 11.2.2
 - JDK build 11.0.10+9
 - IntelliJ IDEA
